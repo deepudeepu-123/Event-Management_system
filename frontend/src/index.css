@@ -20,12 +20,12 @@ code {
   --error: #e7195a;
 }
 body {
-  background: #f1f1f1;
+  background: #8cb1db;
   margin: 0;
   font-family: "Poppins";
 }
 header {
-  background: #fff;
+  background: #2c2424;
 }
 header .container {
   max-width: 1400px;
@@ -36,8 +36,12 @@ header .container {
   justify-content: space-between;
 }
 header a {
-  color: #333;
+  color: #dfcdcd;
   text-decoration: none;
+}
+a:hover {
+  color: rgb(145, 116, 190);
+ 
 }
 .pages{
   max-width: 1400px;
